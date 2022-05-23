@@ -1,0 +1,12 @@
+{
+  "name": "evento",
+  "version": "1.0.0",
+  "description": "This is a web application which is designed for order event planning needs",
+  "main": "index.js",
+  "author": "Maleesha T.H.C.",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
